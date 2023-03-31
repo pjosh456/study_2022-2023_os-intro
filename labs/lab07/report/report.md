@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа № 7"
 subtitle: "Командная оболочка Midnight Commander"
-author: "Алади Принц Чисом ; Нкабв-05-22"
+author: "Ариоке Габриэль Одафе ; Нкабв-05-22"
 
 ## Generic otions
 lang: ru-RU
