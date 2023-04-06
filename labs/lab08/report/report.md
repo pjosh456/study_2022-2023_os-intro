@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа № 8"
 subtitle: "Текстовой редактор vi"
-author: "Алади Принц Чисом ; Нкабд-05-22"
+author: "Ариоке Габриэль Одафе ; Нкабд-05-22"
 
 ## Generic otions
 lang: ru-RU
