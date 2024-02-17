@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по прохождению курса"
 subtitle: "Введение в Linux"
-author: "Алади Принц Чисом ; Нкабд-05-22"
+author: "Онвудиве Виктор Ч; Нкабд-05-22"
 
 ## Generic otions
 lang: ru-RU
